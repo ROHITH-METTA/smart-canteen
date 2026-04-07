@@ -1,2 +1,0 @@
-# Build requirements for packaging
-pyinstaller==6.3.0
